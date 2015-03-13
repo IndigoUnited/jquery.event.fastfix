@@ -17,7 +17,7 @@
     "IndigoUnited",
     "Bitovi"
   ],
-  "description": "Built-in reflow-friendly replacement for jquery.event.fix",
+  "description": "Drop-in reflow-friendly replacement for jquery.event.fix",
   "keywords": [
     "event.fix",
     "fastfix",
