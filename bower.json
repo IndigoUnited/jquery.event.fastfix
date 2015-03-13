@@ -1,0 +1,28 @@
+{
+  "name": "jquery.event.fastfix",
+  "version": "0.1.0",
+  "main": "lib/jquery.event.fastfix.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.8||^2.0"
+  },
+  "homepage": "https://github.com/IndigoUnited/jquery.event.fastfix",
+  "authors": [
+    "IndigoUnited",
+    "Bitovi"
+  ],
+  "description": "Built-in reflow-friendly replacement for jquery.event.fix",
+  "keywords": [
+    "event.fix",
+    "fastfix",
+    "event",
+    "reflow",
+    "jquery"
+  ]
+}
